@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/11/24 09:08:33.000.552,=C:\Users\xjw11\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/24 09:11:04.000.202,C:\Users\xjw11\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\xjw11\Documents\Embarcadero\Studio\Projects\autoeime.dproj</Transaction>
+    <Transaction>2019/11/24 09:11:10.000.424,C:\Users\xjw11\Documents\Embarcadero\Studio\Projects\autoeime.dproj=C:\Users\xjw11\Documents\Embarcadero\Studio\Projects\autoTime.dproj</Transaction>
+    <Transaction>2019/11/24 09:16:40.000.464,C:\Users\xjw11\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\xjw11\Documents\Embarcadero\Studio\Projects\autoTime\Unit1.dfm</Transaction>
+    <Transaction>2019/11/24 09:16:40.000.464,C:\Users\xjw11\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\xjw11\Documents\Embarcadero\Studio\Projects\autoTime\Unit1.pas</Transaction>
+    <Transaction>2019/11/24 09:16:41.000.856,C:\Users\xjw11\Documents\Embarcadero\Studio\Projects\autoTime.dproj=C:\Users\xjw11\Documents\Embarcadero\Studio\Projects\autoTime\autoTime.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
